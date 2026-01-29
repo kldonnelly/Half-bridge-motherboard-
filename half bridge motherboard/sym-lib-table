@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "half_bridge")(type "KiCad")(uri "${KIPRJMOD}/lib/half_bridge.kicad_sym")(options "")(descr ""))
+)
