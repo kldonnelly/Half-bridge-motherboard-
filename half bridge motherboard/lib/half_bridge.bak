@@ -64,7 +64,7 @@
 		)
 		(symbol "Driver_1_1"
 			(pin power_in line
-				(at -5.08 -6.35 0)
+				(at -5.08 -8.89 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -100,7 +100,7 @@
 				)
 			)
 			(pin power_in line
-				(at -5.08 -1.27 0)
+				(at -5.08 1.27 0)
 				(length 2.54)
 				(name ""
 					(effects
@@ -118,7 +118,25 @@
 				)
 			)
 			(pin power_in line
-				(at -5.08 1.27 0)
+				(at -1.27 -12.7 90)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -1.27 5.08 270)
 				(length 2.54)
 				(name ""
 					(effects

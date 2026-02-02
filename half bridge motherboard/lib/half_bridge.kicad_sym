@@ -63,6 +63,46 @@
 			)
 		)
 		(symbol "Driver_1_1"
+			(text "gndi"
+				(at -5.334 -7.112 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "Hi"
+				(at 3.048 3.302 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "in"
+				(at -4.064 -2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "LO"
+				(at 3.048 -6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(text "Vi"
+				(at -4.318 2.794 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
 			(pin power_in line
 				(at -5.08 -8.89 0)
 				(length 2.54)
